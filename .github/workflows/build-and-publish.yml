@@ -19,33 +19,37 @@ jobs:
       - name: Install pandoc
         run: sudo apt-get update && sudo apt-get install -y pandoc
 
+      - name: Create template file
+        run: |
+          cat > template.html << 'EOF'
+          <!DOCTYPE html>
+          <html lang="es">
+          <head>
+              <meta charset="UTF-8">
+              <meta name="viewport" content="width=device-width, initial-scale=1.0">
+              <title>Kevin López-Aquino</title>
+              <style>
+                  body {
+                      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+                      line-height: 1.6;
+                      max-width: 800px;
+                      margin: 0 auto;
+                      padding: 20px;
+                      color: #333;
+                  }
+                  h1, h2, h3 {
+                      color: #2c3e50;
+                  }
+              </style>
+          </head>
+          <body>
+          $body$
+          </body>
+          </html>
+          EOF
+
       - name: Convert Markdown to HTML
-        run: pandoc index.md -o index.html --standalone --template=- << 'EOF'
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kevin López-Aquino</title>
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            color: #333;
-        }
-        h1, h2, h3 {
-            color: #2c3e50;
-        }
-    </style>
-</head>
-<body>
-$body$
-</body>
-</html>
-EOF
+        run: pandoc index.md -o index.html --standalone --template=template.html
 
       - name: Commit and push changes
         run: |
