@@ -4,6 +4,8 @@ I'm a first-year PhD student at the IMDEA Software Institute, working under the 
 
 ### Contact
 
+Office 
+
 ### Research interests
 
 - Logic
@@ -11,5 +13,6 @@ I'm a first-year PhD student at the IMDEA Software Institute, working under the 
 - Programming language theory
 
 ### News 
+
 
 
