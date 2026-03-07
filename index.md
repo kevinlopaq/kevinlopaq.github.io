@@ -1,15 +1,15 @@
-## Kevin López-Aquino
+# Kevin López-Aquino
 
-I'm a first-year PhD student at the IMDEA Software Institute, working under the supervision of Aleks Nanevski.
+I'm a first-year PhD student at the [IMDEA Software Institute](https://software.imdea.org/), working under the supervision of [Aleks Nanevski](https://software.imdea.org/~aleks/).
 
-### Contact
+My research interests include proof theory, type theory and programming language semantics.
 
-Office
+## Contact
 
-### Research interests
+IMDEA Software Institute
+Edificio IMDEA Software, office XXX
+Campus Montegancedo UPM
+28223 Pozuelo de Alarcon, Madrid
+SPAIN
 
-- Logic
-- Type theory
-- Programming language theory
-
-### News 
+email: kevin[dot]lopez[at]imdea[dot]org 
