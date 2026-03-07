@@ -14,4 +14,4 @@ Campus Montegancedo UPM\
 28223 Pozuelo de Alarcón, Madrid\
 SPAIN
 
-email: ((λx. λy. x`.`y`@imdea.org`)(`kevin`))(`lopez`) 
+email: ((λx. λy. `x.y@imdea.org`)(`kevin`))(`lopez`) 
