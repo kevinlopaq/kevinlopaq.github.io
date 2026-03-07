@@ -1,1 +1,0 @@
-# kevinlopaq.github.io
