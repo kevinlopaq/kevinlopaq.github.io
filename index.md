@@ -1,6 +1,8 @@
 # <center>Kevin López-Aquino</center>
 
-I'm a first-year PhD student at the [IMDEA Software Institute](https://software.imdea.org/), working under the supervision of [Aleks Nanevski](https://software.imdea.org/~aleks/).
+## About me
+
+I'm a first-year PhD student at the [IMDEA Software Institute](https://software.imdea.org/), working under the supervision of [Aleks Nanevski](https://software.imdea.org/~aleks/). be
 
 My research interests include proof theory, type theory and programming language semantics.
 
