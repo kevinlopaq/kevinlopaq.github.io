@@ -6,10 +6,10 @@ My research interests include proof theory, type theory and programming language
 
 ## Contact
 
-IMDEA Software Institute
-Edificio IMDEA Software, office XXX
-Campus Montegancedo UPM
-28223 Pozuelo de Alarcon, Madrid
+IMDEA Software Institute\
+Edificio IMDEA Software, office XXX\
+Campus Montegancedo UPM\
+28223 Pozuelo de Alarcón, Madrid\
 SPAIN
 
 email: kevin[dot]lopez[at]imdea[dot]org 
