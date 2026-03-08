@@ -18,7 +18,7 @@ Email: `((λx. λy. x.y@imdea.org)(kevin))(lopez)`
 
 ## News 
 
-- **December 2024.** I received a grant to attend the 32nd [Logic Summer School at the Australian National University](https://comp.anu.edu.au/lss/).
+- **December 2024.** I attended the 32nd [Logic Summer School at the Australian National University](https://comp.anu.edu.au/lss/).
 
 ## Publications
 
