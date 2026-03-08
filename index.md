@@ -14,4 +14,12 @@ Campus Montegancedo UPM\
 28223 Pozuelo de Alarcón, Madrid\
 SPAIN
 
-email: `((λx. λy. x.y@imdea.org)(kevin))(lopez)` 
+Email: `((λx. λy. x.y@imdea.org)(kevin))(lopez)` 
+
+## News 
+
+- **December 2024.** I received a grant to attend the 32nd [Logic Summer School at the Australian National University](https://comp.anu.edu.au/lss/).
+
+## Publications
+
+None so far
