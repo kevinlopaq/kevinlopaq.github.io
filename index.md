@@ -5,7 +5,7 @@ I'm a first-year PhD student at the [IMDEA Software Institute](https://software.
 
 Previously, I obtained a master's degree in formal methods in computer science from Universidad Complutense de Madrid and Universidad Politécnica de Madrid, a master's in mathematics from Universidad de Sevilla, and a bachelor's degree in computer science from Universidad Centroamericana José Simeón Cañas.
 
-My research interests include proof theory, type theory and programming language semantics.
+My research interests include proof theory, type theory and the theory of programming languages.
 
 ## Contact
 IMDEA Software Institute\
