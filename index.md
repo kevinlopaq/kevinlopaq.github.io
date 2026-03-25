@@ -18,5 +18,7 @@ Email: `((λx. λy. x.y@imdea.org)(kevin))(lopez)`
 
 ## News 
 
+- **September 2025.** For my master's in formal methods, my thesis consisted of presenting [Contextual Modal Type Theory in a bidirectional style](https://docta.ucm.es/entities/publication/503b3653-6966-402d-a574-4720ac772c4b).
+- **June 2025.** I defended my master's thesis about [Stone duality](https://idus.us.es/items/0d0ef528-7c94-4976-aaf1-4c5990491f0f).
 - **December 2024.** I attended the 32nd [Logic Summer School at the Australian National University](https://comp.anu.edu.au/lss/).
 
